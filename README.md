@@ -1,8 +1,14 @@
-# Olá! Eu sou o VitorGini_Ss
-👋 Hi, I'm Vitor Alves Gini and I'm a programmer student!
-👀 I'm interested in developing systems and learning as much as I can about all programming languages.
-🌱 I’m currently learning PHP🐘, Javascript and Kotlin📱.
-😁 Pronouns:he/him
+-👋 Hi, I'm Vitor Alves Gini and I'm a programmer student!
+-👀 I'm interested in developing systems and learning as much as I can about all programming languages.
+-🌱 I’m currently learning PHP🐘, Javascript and Kotlin📱.
+- 💻 My favorite and current IDE <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />
+
+<div>
+    <a href="https://github.com/VitorGiniSs">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VitorGiniSs&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iOzoki&layout=compact&langs_count=16&theme=dark"/>
+</div>
+      
 ### 🛠 Languages and Tools
 
 <p align="left">
